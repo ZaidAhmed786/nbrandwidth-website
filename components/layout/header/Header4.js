@@ -20,11 +20,11 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="/mailto:sales@nbandwidth.com" className="link">contact@zolaraconsulting.com </Link>
+                                    <Link href="/mailto:sales@tmsgconsulting.online" className="link">contact@zolaraconsulting.com </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <Link href="/tel:+1 (863) 204-2262">+1 (863) 204-2262</Link>
+                                    <Link href="/tel:+1 (703) 973-8662">+1 (703) 973-8662</Link>
                                 </li>
                             </ul>
                            
@@ -38,7 +38,7 @@ export default function Header1({
                                 <div className="header-left">
                                     <div className="logo">
                                         <Link href="/" className="header-logo">
-                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Nationwide Bandwidth LLC</h3>
+                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Tech Marketing Solutions Group LLC</h3>
                                         </Link>
                                     </div>
                                 </div>

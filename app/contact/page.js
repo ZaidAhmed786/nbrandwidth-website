@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <div >
-                                                            <Link href="/tel:+1 (863) 204-2262" className="text-white fs-6 fw-bold">+1 (863) 204-2262</Link>
+                                                            <Link href="/tel:+1 (703) 973-8662" className="text-white fs-6 fw-bold">+1 (703) 973-8662</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <div >
-                                                            <Link href="/mailto:sales@nbandwidth.com " className="text-white fs-6 fw-bold">sales@nbandwidth.com </Link>
+                                                            <Link href="/mailto:sales@tmsgconsulting.online " className="text-white fs-6 fw-bold">sales@tmsgconsulting.online </Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -63,7 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        1432 Downing Cir, Davenport, FL 33897-8592
+                                                        125320 Whippoorwill Terrace, Chantilly, VA 20152
                                                         </div>
                                                     </div>
                                                 </div>

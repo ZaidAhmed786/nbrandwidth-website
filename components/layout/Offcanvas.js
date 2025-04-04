@@ -15,7 +15,7 @@ export default function Offcanvas({
                             <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                                 <div className="offcanvas__logo">
                                     <Link href="/">
-                                        <h3>Nationwide Bandwidth LLC</h3>
+                                        <h3>Tech Marketing Solutions Group LLC</h3>
                                     </Link>
                                 </div>
                                 <div className="offcanvas__close" onClick={handleOffCanvas}>
@@ -37,7 +37,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">432 Downing Cir, Davenport, FL 33897-8592</Link>
+                                            <Link target="_blank" href="#">25320 Whippoorwill Terrace, Chantilly, VA 20152</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -45,7 +45,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/mailto:info@azent.com"><span className="mailto:sales@nbandwidth.com">sales@nbandwidth.com </span></Link>
+                                            <Link href="/mailto:info@azent.com"><span className="mailto:sales@tmsgconsulting.online">sales@tmsgconsulting.online </span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -61,7 +61,7 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/tel:+11002345909">+1 (863) 204-2262</Link>
+                                            <Link href="/tel:+11002345909">+1 (703) 973-8662</Link>
                                         </div>
                                     </li>
                                 </ul>

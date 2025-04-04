@@ -22,7 +22,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Tell Us How Can We Help</p>
                                                         <h3>
-                                                            <Link href="/tel:+2085550112">+1 (863) 204-2262</Link>
+                                                            <Link href="/tel:+2085550112">+1 (703) 973-8662</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -37,7 +37,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Make a Quote</p>
                                                         <h3>
-                                                            <Link href="/mailto:infotech@gmail.com">sales@nbandwidth.com </Link>
+                                                            <Link href="/mailto:infotech@gmail.com">sales@tmsgconsulting.online </Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -51,7 +51,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                        432 Downing Cir, Davenport, FL 33897-8592
+                                                        25320 Whippoorwill Terrace, Chantilly, VA 20152
                                                         </h3>
                                                     </div>
                                                 </div>

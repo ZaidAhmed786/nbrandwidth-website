@@ -17,7 +17,7 @@ export default function PrivacyPolicy() {
                                 <h2 className="wow fadeInUp" data-wow-delay=".3s">
                                 Your Privacy Matters to Us
                                 </h2>
-                                <p className="fw-semibold pt-5">At Nationwide Bandwidth LLC, we take your privacy seriously. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website or use our Internet, cable, and phone services. By accessing or using our services, you consent to the practices described in this policy.</p>
+                                <p className="fw-semibold pt-5">At Tech Marketing Solutions Group LLC, we take your privacy seriously. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website or use our Internet, cable, and phone services. By accessing or using our services, you consent to the practices described in this policy.</p>
                                 </div>
 
                                   <div className="d-flex align-items-center gap-3 mt-4">
@@ -72,7 +72,7 @@ export default function PrivacyPolicy() {
                                 </ul>
 
                                 <p>
-                                Tell us How Can We Help - We value your feedback and are here to help with any questions or concerns you may have about this Privacy Policy or your privacy rights. Contact us at <a href="mailto:sales@nbandwidth.com "  style={{color: "#06A3DA"}}>sales@nbandwidth.com </a>
+                                Tell us How Can We Help - We value your feedback and are here to help with any questions or concerns you may have about this Privacy Policy or your privacy rights. Contact us at <a href="mailto:sales@tmsgconsulting.online "  style={{color: "#06A3DA"}}>sales@tmsgconsulting.online </a>
                                 </p>
 
                                 </div>

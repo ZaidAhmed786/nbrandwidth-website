@@ -16,15 +16,15 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <h2 className="text-white">Nationwide Bandwidth LLC</h2>
+                                            <h2 className="text-white">Tech Marketing Solutions Group LLC</h2>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                        At Nationwide Bandwidth LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
+                                        At Tech Marketing Solutions Group LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
                                         </p>
                                         <p>
-                                         Nationwide Bandwidth LLC
+                                         Tech Marketing Solutions Group LLC
                                         </p>
                                      
                                     </div>
@@ -39,15 +39,15 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                432 Downing Cir, Davenport, FL 33897-8592
+                                                25320 Whippoorwill Terrace, Chantilly, VA 20152
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:+1 (863) 204-2262">+1 (863) 204-2262</Link>
+                                                <Link href="/tel:+1 (703) 973-8662">+1 (703) 973-8662</Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="/mailto:sales@nbandwidth.com ">sales@nbandwidth.com </Link>
+                                                <Link href="/mailto:sales@tmsgconsulting.online ">sales@tmsgconsulting.online </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
@@ -133,7 +133,7 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Nation  <Link href="/">Bandwidth LLC</Link>
+                                © All Copyright {new Date().getFullYear()}  |  Tech Marketing  <Link href="/">Solutions Group LLC </Link>
                             </p>
                            
                         </div>

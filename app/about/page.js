@@ -22,7 +22,7 @@ export default function About() {
                                 Delivering Unmatched Connectivity Across the Nation
                                 </h2>
                                 <p className="fw-medium pt-5">
-                                At Nationwide Bandwidth LLC, we are committed to providing the best in class Internet, cable, and phone services to our customers. Here’s how we stand out:
+                                At Tech Marketing Solutions Group LLC, we are committed to providing the best in class Internet, cable, and phone services to our customers. Here’s how we stand out:
                                 </p>
                                 
                                 <div className="d-flex align-items-center gap-3 mt-4">

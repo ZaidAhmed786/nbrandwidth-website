@@ -26,7 +26,7 @@ export default function RefundPolicy() {
                                 <p className="pt-3">Cancellation of any agreed upon service should be done 10 days prior to the start of the next billing cycle. Cancellations made after the start of the billing cycle will result in an amount equivalent to the working hours put into the project during that month being billable.</p>
                                 <p className="pt-3">If you signed up for our services but did not make use of them, you are still entitled to pay us. The amount of refund will be credited to the account from which the payment was made within 45 days of service cancellation.</p>
                                 <p className="pt-5">
-                                Write us at: <a href="mailto:sales@nbandwidth.com "  style={{color: "#06A3DA"}}>sales@nbandwidth.com </a>
+                                Write us at: <a href="mailto:sales@tmsgconsulting.online "  style={{color: "#06A3DA"}}>sales@tmsgconsulting.online </a>
                                 </p>
                                </div>
                             </div>

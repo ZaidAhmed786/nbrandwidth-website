@@ -96,7 +96,7 @@ export default function Service() {
                                                     </Link>
                                                 </h4>
                                                 <p>
-                                                Nationwide Bandwidth LLC seamlessly combines satellite and internet streaming technologies. Expect crystal-clear imagery and sound, ensuring every moment on screen is captivating.
+                                                Tech Marketing Solutions Group LLC seamlessly combines satellite and internet streaming technologies. Expect crystal-clear imagery and sound, ensuring every moment on screen is captivating.
                                                 </p>
                                                 <Link href="/service-details" className="theme-btn-2 mt-3">
                                                     read More
